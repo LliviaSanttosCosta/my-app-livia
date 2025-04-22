@@ -13,3 +13,11 @@ export default function Index() {
     </View>
   );
 }
+
+const style = StyleSheet,create({
+  containe: {
+    flex: 1,
+    justifycontent: "center",
+    alignItens: "center",
+  }
+})
